@@ -2,7 +2,7 @@
 
 **M.Sc. student in Computer Engineering (Complex Systems) at Università Roma Tre** · Data engineering, machine learning and LLMs
 
-🌐 **[fragiovis.github.io](https://fragiovis.github.io)** · 📫 [franci.giovanardi@gmail.com](mailto:franci.giovanardi@gmail.com) · 📍 Rome, Italy
+🌐 **[fragiovis.github.io](https://fragiovis.github.io)** · 📍 Rome, Italy
 
 - 🔬 **Thesis research** at the **University of Michigan** with Prof. H.V. Jagadish: imputation of data that is *missing not at random*, guided by domain knowledge about why it is missing
 - 🏛️ **Research collaborator** (2024–present) with the Metropolitan City of Rome Capital, Roma Tre and UniData on the *Scuole di Roma* project: real-time data pipelines (Kafka, Spark, Hadoop), LSTM forecasting and LLM-based chatbots
