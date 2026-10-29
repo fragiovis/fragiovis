@@ -1,11 +1,11 @@
 ## Hi, I'm Francesco Giovanardi 👋
 
-**Computer Engineer · M.Sc. in Computer Engineering (Complex Systems), Università Roma Tre — 110/110 cum laude** · Data engineering, machine learning and LLMs
+**AI & Data Engineer · M.Sc. in Computer Engineering (Complex Systems), Università Roma Tre — 110/110 cum laude** · Data engineering, machine learning and LLMs
 
 🌐 **[fragiovis.github.io](https://fragiovis.github.io)** · 📍 Rome, Italy
 
-- 🔬 **M.Sc. thesis** carried out at the **University of Michigan** with Prof. H.V. Jagadish: imputation of data that is *missing not at random*, guided by domain knowledge about why it is missing. It reaches a **3–10× lower Wasserstein distance than MICE** on CPS retirement income
-- 🏛️ **Research collaborator** (2024–present) with the Metropolitan City of Rome Capital, Roma Tre and UniData on the *Scuole di Roma* project: real-time data pipelines (Kafka, Spark, Hadoop), LSTM forecasting and LLM-based chatbots
+- 🔬 **M.Sc. thesis** carried out at the **University of Michigan** with Prof. H.V. Jagadish: imputation of data that is *missing not at random*, guided by domain knowledge about why it is missing. It reaches a **3–10× lower Wasserstein distance than MICE** on CPS retirement income; paper in preparation
+- 🏛️ **Research collaborator** (Feb 2024 – Feb 2026) with the Metropolitan City of Rome Capital, Roma Tre and Unidata on the *Scuole di Roma* project: a Lambda architecture over 733 LoRaWAN sensors in 7 schools (Kafka, Spark Streaming, Hadoop), LSTM forecasting and an LLM text-to-SQL chatbot
 - 🎓 B.Sc. in Computer Engineering, **110/110 cum laude** · Erasmus+ at Universidad de Alcalá (Spain)
 
 ### ⭐ Featured projects
