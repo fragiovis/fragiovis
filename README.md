@@ -16,7 +16,6 @@
 | [**Flight Analysis**](https://github.com/fragiovis/BigData-FlightAnalysis) | Spark Core vs Spark SQL vs Hive on 7M flights, benchmarked locally, on YARN and on AWS EMR | PySpark, Hive, Hadoop, AWS EMR, Streamlit |
 | [**Evaluating LLMs**](https://github.com/fragiovis/EvaluatingLLMs) | B.Sc. thesis: benchmarking open LLMs on ARC, MMLU-Pro, HumanEval and SQuAD, with and without RAG | Python, FAISS, Sentence-Transformers, Groq |
 | [**What2It**](https://github.com/fragiovis/what2it) | Recipe recommender mixing pantry coverage and TF-IDF content similarity | Python, scikit-learn, PostgreSQL, Streamlit |
-| [**BetterMusic**](https://github.com/fragiovis/asw-bettermusic-1) | Migrating a REST microservice system to an event-driven architecture | Java, Spring Cloud, Kafka, PostgreSQL, Docker |
 | [**Used-car record linkage**](https://github.com/fragiovis/homework6-IDD) | Entity resolution across two used-car datasets with blocking and learned matchers | Python, recordlinkage, dedupe, SQLite |
 
 ### 🛠️ Toolbox
